@@ -1,0 +1,53 @@
+layout["Test Kit"] = { Style = "Group Box",  Position = { 862, 1292 } Size = { 689, 406 } }
+layout["Audio player"] = { Style = "Group Box",  Position = { 1250, 1300 } Size = { 142, 154 } }
+layout["Patch bay"] = { Style = "Group Box",  Position = { 1402, 1300 } Size = { 142, 154 } }
+layout[""] = { Style = "Control",  Position = { 1468, 1323 } Size = { 32, 32 } }
+layout[""] = { Style = "Control",  Position = { 1418, 1323 } Size = { 32, 32 } }
+layout[""] = { Style = "Control",  Position = { 1468, 1355 } Size = { 32, 32 } }
+layout[""] = { Style = "Control",  Position = { 1418, 1355 } Size = { 32, 32 } }
+layout[""] = { Style = "Control",  Position = { 1468, 1387 } Size = { 32, 32 } }
+layout[""] = { Style = "Control",  Position = { 1418, 1387 } Size = { 32, 32 } }
+layout["Pink Noise Generator"] = { Style = "pink",  Position = { 879, 1371 } Size = { 82, 24 } }
+layout["Signal Injector"] = { Style = "injector",  Position = { 1114, 1343 } Size = { 82, 28 } }
+layout["Signal Probe"] = { Style = "probe",  Position = { 879, 1447 } Size = { 82, 28 } }
+layout["White Noise Generator"] = { Style = "white",  Position = { 879, 1395 } Size = { 82, 28 } }
+layout["Sine Generator"] = { Style = "sine",  Position = { 879, 1343 } Size = { 82, 28 } }
+layout["Router 6x2"] = { Style = "router_with_output",  Position = { 1006, 1343 } Size = { 82, 62 } }
+layout[""] = { Style = "Control",  Position = { 1101, 1447 } Size = { 32, 32 } }
+layout[""] = { Style = "Control",  Position = { 1196, 1339 } Size = { 32, 32 } }
+layout["IO Monitor"] = { Style = "io_monitor",  Position = { 879, 1423 } Size = { 82, 24 } }
+layout[" Sine Wave"] = { Style = "Control",  Position = { 879, 1536 } Size = { 60, 20 } }
+layout["Pink noise"] = { Style = "Control",  Position = { 879, 1560 } Size = { 60, 20 } }
+layout["White noise"] = { Style = "Control",  Position = { 879, 1584 } Size = { 60, 20 } }
+layout["IO Monitor"] = { Style = "Control",  Position = { 879, 1609 } Size = { 60, 20 } }
+layout["Signal Probe"] = { Style = "Control",  Position = { 879, 1633 } Size = { 60, 20 } }
+layout["Audio Player"] = { Style = "Control",  Position = { 879, 1657 } Size = { 60, 20 } }
+layout["RTA - Band-Pass"] = { Style = "rta_bandpass",  Position = { 995, 1447 } Size = { 82, 28 } }
+layout["Audio Player"] = { Style = "audio_file_player",  Position = { 879, 1475 } Size = { 82, 28 } }
+layout[""] = { Style = "",  Position = { 1149, 1461 } Size = { 395, 216 } }
+layout[""] = { Style = "Control",  Position = { 1052, 1525 } Size = { 36, 128 } }
+layout["injector 
+volume"] = { Style = "Text Block",  Position = { 1052, 1653 } Size = { 62, 26 } }
+layout["Signal Injector"] = { Style = "injector",  Position = { 1114, 1371 } Size = { 82, 28 } }
+layout[""] = { Style = "Control",  Position = { 1196, 1371 } Size = { 32, 32 } }
+layout["Sine Wave"] = { Style = "Control",  Position = { 959, 1536 } Size = { 60, 20 } }
+layout["Pink Noise"] = { Style = "Control",  Position = { 959, 1560 } Size = { 60, 20 } }
+layout["White noise"] = { Style = "Control",  Position = { 959, 1584 } Size = { 60, 20 } }
+layout[" IO Monitor"] = { Style = "Control",  Position = { 959, 1609 } Size = { 60, 20 } }
+layout[" Signal Probe"] = { Style = "Control",  Position = { 959, 1633 } Size = { 60, 20 } }
+layout[" Audio Player"] = { Style = "Control",  Position = { 959, 1657 } Size = { 60, 20 } }
+layout[""] = { Style = "Control",  Position = { 1101, 1525 } Size = { 36, 128 } }
+layout["Patch cables"] = { Style = "Container",  Position = { 1418, 1419 } Size = { 82, 28 } }
+layout[""] = { Style = "Control",  Position = { 1500, 1323 } Size = { 32, 32 } }
+layout[""] = { Style = "Control",  Position = { 1500, 1355 } Size = { 32, 32 } }
+layout[""] = { Style = "Control",  Position = { 1500, 1387 } Size = { 32, 32 } }
+layout[""] = { Style = "Control",  Position = { 879, 1320 } Size = { 173, 23 } }
+layout[""] = { Style = "Trigger Button",  Position = { 1258, 1352 } Size = { 39, 35 } }
+layout[""] = { Style = "Trigger Button",  Position = { 1306, 1355 } Size = { 36, 32 } }
+layout[""] = { Style = "Control",  Position = { 1258, 1387 } Size = { 129, 16 } }
+layout[""] = { Style = "Control",  Position = { 1258, 1403 } Size = { 129, 16 } }
+layout[""] = { Style = "Control",  Position = { 1258, 1419 } Size = { 129, 16 } }
+layout[""] = { Style = "Control",  Position = { 1284, 1320 } Size = { 36, 32 } }
+layout[""] = { Style = "Control",  Position = { 1329, 1320 } Size = { 36, 32 } }
+layout[""] = { Style = "Trigger Button",  Position = { 1351, 1355 } Size = { 36, 32 } }
+layout[""] = { Style = "Control",  Position = { 1258, 1435 } Size = { 129, 16 } }

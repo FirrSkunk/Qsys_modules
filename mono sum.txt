@@ -1,0 +1,1 @@
+layout["Mixer 1x1"] = { Style = "mixer",  Position = { 650, 527 } Size = { 82, 24 } }

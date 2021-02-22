@@ -1,0 +1,5 @@
+layout["call in chime v 1.3"] = { Style = "Group Box",  Position = { 1121, 1940 } Size = { 387, 132 } }
+layout["Gain"] = { Style = "gain",  Position = { 1269, 1958 } Size = { 82, 36 } }
+layout["Logic NOT"] = { Style = "control_logic",  Position = { 1143, 1990 } Size = { 82, 24 } }
+layout["Audio Player chime"] = { Style = "audio_file_player",  Position = { 1269, 1994 } Size = { 82, 36 } }
+layout["Mixer 2x1"] = { Style = "mixer",  Position = { 1351, 1958 } Size = { 82, 24 } }
